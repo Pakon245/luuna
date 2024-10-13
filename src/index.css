@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.image {
+  float: right;
+  width: 400px;
+  height: 250px;
+  object-fit: cover; 
+  border-radius: 10px; 
+}
